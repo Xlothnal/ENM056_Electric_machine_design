@@ -18,7 +18,7 @@
 clear
 close all
 clc
- % % % TESTYTESTY
+
 % Parameters of the reference machine
 %Please fill the parameters of the machine below in SI units
 
